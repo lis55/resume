@@ -134,7 +134,7 @@ export const skills: SkillGroup[] = [
       },
       {
         name: 'Spanish',
-        level: 3,
+        level: 10,
       },
     ],
   },
@@ -345,7 +345,7 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Location,
-      text: 'Victoria BC, Canada',
+      text: 'Erlangen, Germany',
       href: 'https://www.google.ca/maps/place/Victoria,+BC/@48.4262362,-123.376775,14z',
     },
     {
